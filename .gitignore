@@ -1,0 +1,6 @@
+data/
+*.csv
+*.xlsx
+Credentials.*
+*.exe
+*.bat
